@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou Cauã Barros
 
-<!--
-**cgsbarros/cgsbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
+- 🎓 Sou estudante de Ciência e Tecnologia na UFMA (Universidade Federal do Maranhão).
+- 🌱 Atualmente, estou focado no estudo de programação, especialmente em desenvolvimento front-end.
+- 👨‍💻 Estou aprendendo HTML, CSS, JavaScript e Figma para criar interfaces web.
+- 🔜 Meu próximo passo é explorar o desenvolvimento com frameworks e depois partir para o backend de forma a complementar meus conhecimentos.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- HTML
+- CSS
+- JavaScript
+- Figma (Design de Interfaces)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/caua-gabriel-barros/)
+- Email: cauagsb5@gmail.com
+
+## 🔗 Links
+- [Linktree](https://cgsbarros.github.io/linktree-cauabarros/)
+
+## 📊 Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgsbarros&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cgsbarros&theme=dark&card_height=180em)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgsbarros&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
