@@ -1,20 +1,20 @@
 # Olá! Eu sou Cauã Barros
 
 ## 👨‍💻 Sobre mim
-- 🎓 Sou estudante de Ciência e Tecnologia na UFMA (Universidade Federal do Maranhão).
-- 🌱 Atualmente, estou focado no estudo de programação, especialmente em desenvolvimento front-end.
-- 👨‍💻 Estou aprendendo HTML, CSS, JavaScript e Figma para criar interfaces web.
-- 🔜 Meu próximo passo é explorar o desenvolvimento com frameworks e depois partir para o backend de forma a complementar meus conhecimentos.
+- 🎓 Estudante de **Ciência e Tecnologia** na **UFMA** (Universidade Federal do Maranhão).
+- 🌱 Atualmente, estou atuando como **desenvolvedor Fullstack**, com experiência em **back-end** (Java/Spring Boot) e **front-end** (Vue.js).
+- 👨‍💻 Tenho experiência no desenvolvimento de sistemas completos, desde a criação de APIs até o consumo de dados de APIs externas.
+- 💻 Utilizo **HTML**, **CSS**, **JavaScript** e **Figma** para criar interfaces web.
+- 🔜 Meu próximo objetivo é desenvolver uma **aplicação fullstack** que consuma uma API externa e integre esses dados para criar um sistema completo.
 
-## 🚀 Habilidades
-- HTML
-- CSS
-- JavaScript
-- Figma (Design de Interfaces)
+## 🛠️ Tecnologias e Ferramentas
+- **Front-end**: Vue.js, HTML, CSS, JavaScript
+- **Back-end**: Java, Spring Boot
+- **Outros**: Figma, APIs públicas
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/caua-gabriel-barros/)
-- Email: cauagsb5@gmail.com
+- Email: barroscgs@gmail.com
 
 ## 🔗 Links
 - [Linktree](https://cgsbarros.github.io/linktree-cauabarros/)
